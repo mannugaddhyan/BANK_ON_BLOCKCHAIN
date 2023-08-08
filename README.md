@@ -15,23 +15,3 @@ Real-time Interest: Deposits will earn real-time interest over time, increasing 
 Withdrawal: Users can withdraw their funds whenever they want, ensuring flexibility and accessibility.
 Decentralized: The bank operates on the Ethereum blockchain, eliminating the need for a central authority and providing transparency and security.
 
-Depositing Ethers
-Connect your Ethereum wallet or browser extension to the Ethereum network.
-Deploy the smart contract to the network.
-Access the user interface and navigate to the deposit section.
-Enter the amount of ethers you want to deposit and confirm the transaction.
-The deposited amount will be reflected in your account balance.
-Earning Interest
-As time passes, the deposited ethers will accumulate interest in real-time within the smart contract.
-The interest earned will be automatically added to your account balance.
-Withdrawing Funds
-Navigate to the withdrawal section of the user interface.
-Enter the amount of ethers you want to withdraw.
-Confirm the transaction to withdraw funds from your account.
-Smart Contracts
-
-The project consists of the following smart contracts:
-
-Bank: Manages user accounts, deposits, interest calculation, and withdrawals.
-The solidity code for these contracts can be found in the contracts/ directory.
-
