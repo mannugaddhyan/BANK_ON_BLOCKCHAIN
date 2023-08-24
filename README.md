@@ -15,3 +15,9 @@ Real-time Interest: Deposits will earn real-time interest over time, increasing 
 Withdrawal: Users can withdraw their funds whenever they want, ensuring flexibility and accessibility.
 Decentralized: The bank operates on the Ethereum blockchain, eliminating the need for a central authority and providing transparency and security.
 
+How is it any different from running a python program on my desktop?
+Of course in this primer, we’ve abstracted out a lot of jargons so that we can get to the crux of the matter. To build resilient smart contracts, it is important to understand what is really happening and understand some of the jargons.
+Ethereum is a world computer. Everyone is running code on this single computer. Anyone can connect their laptop to this world computer and add a CPU to it, and make it even more powerful. There are hundreds of thousands of computers that contribute their processing power to this world computer. Each of these computers are called miner nodes.
+
+SCREENSHOTS OF THE WORKING CODE: 
+
